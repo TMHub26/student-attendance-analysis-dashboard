@@ -22,7 +22,7 @@ Key columns include:
 - overall_absence_perc
 
 
-##Tools & Technologies
+## Tools & Technologies
 
 -Python
 -Matplotlib
@@ -34,7 +34,7 @@ Key columns include:
 
 
 
-##Data Cleaning
+## Data Cleaning
 The following cleaning steps were completed:
 
 -Identified missing values , data types and column structure
@@ -45,7 +45,7 @@ The following cleaning steps were completed:
 
 
 
-##Data Quality Summary
+## Data Quality Summary
 
 Data quality checks included :
 - Missing value analysis
@@ -70,7 +70,7 @@ The project includes visualations such as :
 
 
 
-  ##Skills Demonstrated
+  ## Skills Demonstrated
 
   - Data cleaning
   - Exploatory data analysis
@@ -82,7 +82,7 @@ The project includes visualations such as :
 ## Future Improvements
 
 -Building an interactive Power BI or Tableau dashboard
-- Deep analysis on the factors of attendance
+-Deep analysis on the factors of attendance
 
 
 
