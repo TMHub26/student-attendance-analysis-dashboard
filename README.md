@@ -32,7 +32,7 @@ Key columns include:
 -Jupyter Notebook
 
 
----
+
 
 ##Data Cleaning
 The following cleaning steps were completed:
@@ -43,7 +43,7 @@ The following cleaning steps were completed:
 -Standardised percentages
 -Checked for impossible values
 
---
+
 
 ##Data Quality Summary
 
@@ -51,7 +51,7 @@ Data quality checks included :
 - Missing value analysis
 - Duplicate analysis
 
---
+
 
 ## Visualisations
 
@@ -60,7 +60,7 @@ The project includes visualations such as :
 - Top 5 Regions by attendance
 - Attendance trends over time
 
-  --
+
 
   ## Key Insights
 
@@ -69,7 +69,7 @@ The project includes visualations such as :
 - There is a sharp decline in attendance for all education phases 
 
 
-  --
+
   ##Skills Demonstrated
 
   - Data cleaning
@@ -78,7 +78,7 @@ The project includes visualations such as :
   - Data visualation
   - Education data analysis
  
---
+
 ## Future Improvements
 
 -Building an interactive Power BI or Tableau dashboard
@@ -86,8 +86,6 @@ The project includes visualations such as :
 
 
 
-
---
 Author 
 
 Oluwaseun 
