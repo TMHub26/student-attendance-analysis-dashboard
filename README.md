@@ -5,7 +5,7 @@
 This dataset contains information on:
 
 -Overall attendance
--Authorised and unathorised absences
+-Authorised and unauthorised absences
 -Illness absences
 -Lateness
 -Educational activity
