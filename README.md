@@ -73,9 +73,9 @@ The project includes visualations such as :
   ## Skills Demonstrated
 
   - Data cleaning
-  - Exploatory data analysis
+  - Exploratory data analysis
   - Data validation
-  - Data visualation
+  - Data visualisation
   - Education data analysis
  
 
